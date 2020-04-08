@@ -11,4 +11,4 @@
 
 ***The linux command for converting the .mp4 .aac .mp3 etc audio file formats to .wav format is :***
 
-- ***for f in *.aac; do avconv -i "$f" "${f/%aac/wav}"; done*** replace the input format into the respective audio file formats accordingly 
+- **for f in *.aac; do avconv -i "$f" "${f/%aac/wav}"; done*** replace the input format into the respective audio file formats accordingly 
