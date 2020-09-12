@@ -58,7 +58,7 @@ Details of the mean opinion score collected from 20 volunteers according to ABX 
 - ***Opinion scores VCC_2016_Data*** 
   
   ********
- The TF-GAN code was modified on  https://github.com/leimao/Voice_Converter_CycleGAN
+ The TF-GAN code is developed based on the given repository code: https://github.com/leimao/Voice_Converter_CycleGAN
 
   
     
