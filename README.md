@@ -27,3 +27,29 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
   - ***training_data of two speakers*** 
   - ***validation_data of two speakers***
   
+***Optional arguments***
+
+  -'--speaker_1_dir', type = str, help = 'Audio directory of the first speaker'
+  -'--speaker_2_dir', type = str, help = 'Audio directory of the second speaker'
+  -'--speaker_1_validation_dir', type = str, help = 'vocal style conversion of speaker_1  during  training.'
+  - '--speaker_2_validation_dir', type = str, help = 'vocal style conversion of speaker_2  during  training.'
+  - '--generated_data_directory', type = str, help = 'output directory for saving the generated audio samples'
+  -'--epoch_number', type = int, help = 'epoch_number'
+    
+   -'--tfgan_model_directory', type = str, help = 'tfgan_model_directory for saving the model.'
+   -'--tfgan_model_name', type = str, help = 'tfgan_model_name'
+
+   -'--tensorboard_log_dir', type = str, help = 'TensorBoard log directory.'
+
+   -'--random_seed', type = int, help = 'random seed value'
+   -'--batch_size', type = int, help = 'mini_batch_size'
+    
+   -'--g_learning_rate', type = int, help = 'generator_learning_rate'
+  -'--d_learning_rate', type = int, help = 'discriminator_learning_rate'
+
+   -'--sampling_rate', type = int, help = 'sampling_rate'
+    -'--MCEPs', type = int, help = 'number of mel cepstral coefficients'
+    -'--fp', type = int, help = 'frame period'
+    -'--fn', type = int, help = 'frame number'
+
+    
