@@ -19,3 +19,12 @@ here for building the TF-GAN model are Tensorflow 1.15.0
 and Keras 2.3.1. For audio data preprocessing Librosa 0.7.2
 and Pyworld 0.2.8 version was used. For storing the feature
 information in .npz format, Numpy 1.15 was used.
+- ***TFGAN-code Files with training and validation data*** 
+  - ***1.main.py*** 
+  - ***2.train.py*** 
+  - ***3.model.py*** 
+  - ***4.tfgan_network.py*** 
+  - ***5.loss.py*** 
+  - ***training_data of two speakers*** 
+  - ***validation_data of same two speakers***
+  
