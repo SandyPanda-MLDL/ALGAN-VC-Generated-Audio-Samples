@@ -51,7 +51,7 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
   - '--fn', type = int, help = 'frame number'
   
   ******
-# TF_GAN_Opininio_Scores Folder description
+# TF_GAN_Opinion_Scores Folder description
 Details of the mean opinion score collected from 20 volunteers according to ABX algorithm for the **generated audio samples**
 - ***Opinion scores for TF_GAN_Un-Parallel_self_prepared_English_data*** 
 - ***Opinion scores for TF_GAN_Un-Parallel__self_prepared_regional_language_data*** 
