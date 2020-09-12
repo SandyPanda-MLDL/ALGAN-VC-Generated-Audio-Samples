@@ -57,7 +57,8 @@ Details of the mean opinion score collected from 20 volunteers according to ABX 
 - ***Opinion scores for TF_GAN_Un-Parallel__self_prepared_regional_language_data*** 
 - ***Opinion scores VCC_2016_Data*** 
   
-  
+  ********
+ The TF-GAN code was modified on  https://github.com/leimao/Voice_Converter_CycleGAN
 
   
     
