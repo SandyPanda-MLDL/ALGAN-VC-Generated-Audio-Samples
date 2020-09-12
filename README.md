@@ -2,6 +2,8 @@
 - The folder named ***Generated Samples by Proposed TFGAN*** contains the following  contents:
 1. The audio samples used for training are in English for both the speakers and thus the generated samples also. (One Male speaker and one Female speaker)
 2. The audio samples of the male speaker is in Bengali (An Indian regional language) for the similar experiment and thus one of the generated samples also.
+
+******
 - The folder named ***Self prepared dataset*** contains audio data of 10 different speakers from India -
 # Our self prepared dataset contains Audio samples of 10 speakers
 - ***Speaker1*** to ***Speaker10*** are ***10 different speakers*** and the recorded audios are in ***English Language***
@@ -12,6 +14,8 @@
 ***The linux command for converting the .mp4 .aac .mp3 etc audio file formats to .wav format is :***
 
 - **for f in *.aac; do avconv -i "$f" "${f/%aac/wav}"; done*** replace the input format into the respective audio file formats accordingly 
+
+******
 # TFGAN-code 
 ***Experimental details  :***
 The experiment was done in ***Python 3.6.9*** and packages used
@@ -26,39 +30,28 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
   - ***5.loss.py*** 
   - ***training_data of two speakers*** 
   - ***validation_data of two speakers***
-
+  
+******
 - ***Optional arguments*** 
   - '--speaker_1_dir', type = str, help = 'Audio directory of the first speaker'
   - '--speaker_2_dir', type = str, help = 'Audio directory of the second speaker'
   - '--speaker_1_validation_dir', type = str, help = 'vocal style conversion of speaker_1  during  training.'
   - '--speaker_2_validation_dir', type = str, help = 'vocal style conversion of speaker_2  during  training.'
-  - ***5.loss.py*** 
-  - ***training_data of two speakers*** 
-  - ***validation_data of two speakers***
-  
-******
-
-  -
-  -
-  -
-  - 
   - '--generated_data_directory', type = str, help = 'output directory for saving the generated audio samples'
-  -'--epoch_number', type = int, help = 'epoch_number'
-    
-   -'--tfgan_model_directory', type = str, help = 'tfgan_model_directory for saving the model.'
-   -'--tfgan_model_name', type = str, help = 'tfgan_model_name'
+  - '--epoch_number', type = int, help = 'epoch_number'
+  - '--tfgan_model_directory', type = str, help = 'tfgan_model_directory for saving the model.'
+  - '--tfgan_model_name', type = str, help = 'tfgan_model_name'
+  - '--tensorboard_log_dir', type = str, help = 'TensorBoard log directory.'
+  - '--random_seed', type = int, help = 'random seed value'
+  - '--batch_size', type = int, help = 'mini_batch_size'
+  - '--g_learning_rate', type = int, help = 'generator_learning_rate'
+  - '--d_learning_rate', type = int, help = 'discriminator_learning_rate'
+  - '--sampling_rate', type = int, help = 'sampling_rate'
+  - '--fp', type = int, help = 'frame period'
+  - '--fn', type = int, help = 'frame number'
+  
+  
 
-   -'--tensorboard_log_dir', type = str, help = 'TensorBoard log directory.'
 
-   -'--random_seed', type = int, help = 'random seed value'
-   -'--batch_size', type = int, help = 'mini_batch_size'
-    
-   -'--g_learning_rate', type = int, help = 'generator_learning_rate'
-  -'--d_learning_rate', type = int, help = 'discriminator_learning_rate'
-
-   -'--sampling_rate', type = int, help = 'sampling_rate'
-    -'--MCEPs', type = int, help = 'number of mel cepstral coefficients'
-    -'--fp', type = int, help = 'frame period'
-    -'--fn', type = int, help = 'frame number'
-
+  
     
