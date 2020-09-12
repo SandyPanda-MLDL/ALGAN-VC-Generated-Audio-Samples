@@ -13,3 +13,4 @@
 
 - **for f in *.aac; do avconv -i "$f" "${f/%aac/wav}"; done*** replace the input format into the respective audio file formats accordingly 
 # TFGAN-code 
+***libraries that we have used  :***
