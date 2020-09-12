@@ -26,5 +26,5 @@ information in .npz format, Numpy 1.15 was used.
   - ***4.tfgan_network.py*** 
   - ***5.loss.py*** 
   - ***training_data of two speakers*** 
-  - ***validation_data of same two speakers***
+  - ***validation_data of two speakers***
   
