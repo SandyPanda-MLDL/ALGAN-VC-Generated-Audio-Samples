@@ -32,7 +32,7 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
   - ***validation_data of two speakers***
   
 ******
-- ***Optional arguments*** 
+- ***Optional arguments in main.py*** 
   - '--speaker_1_dir', type = str, help = 'Audio directory of the first speaker'
   - '--speaker_2_dir', type = str, help = 'Audio directory of the second speaker'
   - '--speaker_1_validation_dir', type = str, help = 'vocal style conversion of speaker_1  during  training.'
