@@ -26,13 +26,22 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
   - ***5.loss.py*** 
   - ***training_data of two speakers*** 
   - ***validation_data of two speakers***
-  
-***Optional arguments***
 
-  -'--speaker_1_dir', type = str, help = 'Audio directory of the first speaker'
-  -'--speaker_2_dir', type = str, help = 'Audio directory of the second speaker'
-  -'--speaker_1_validation_dir', type = str, help = 'vocal style conversion of speaker_1  during  training.'
+- ***Optional arguments*** 
+  - '--speaker_1_dir', type = str, help = 'Audio directory of the first speaker'
+  - '--speaker_2_dir', type = str, help = 'Audio directory of the second speaker'
+  - '--speaker_1_validation_dir', type = str, help = 'vocal style conversion of speaker_1  during  training.'
   - '--speaker_2_validation_dir', type = str, help = 'vocal style conversion of speaker_2  during  training.'
+  - ***5.loss.py*** 
+  - ***training_data of two speakers*** 
+  - ***validation_data of two speakers***
+  
+******
+
+  -
+  -
+  -
+  - 
   - '--generated_data_directory', type = str, help = 'output directory for saving the generated audio samples'
   -'--epoch_number', type = int, help = 'epoch_number'
     
