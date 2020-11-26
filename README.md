@@ -1,4 +1,4 @@
-# TFGAN-Generated-Audio-Samples and Converted_Speeches Folder (contains the generated output samples 
+# TFGAN-Generated-Audio-Samples (Generated Samples by Proposed TFGAN and Converted_Speeches Folder contains the generated output samples 
 )
 - The folder named ***Generated Samples by Proposed TFGAN*** contains the following  contents:
 1. The audio samples used for training are in English for both the speakers and thus the generated samples also. (One Male speaker and one Female speaker)
