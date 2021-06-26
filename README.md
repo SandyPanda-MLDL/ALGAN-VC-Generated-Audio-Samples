@@ -20,10 +20,10 @@
 # ALGAN-VC-code 
 ***Experimental details  :***
 The experiment was done in ***Python 3.6.9*** and packages used
-here for building the ***TF-GAN*** model are ***Tensorflow 1.15.0***. For audio data preprocessing ***Librosa 0.7.2***
+here for building the ***ALGAN-VC*** model are ***Tensorflow 1.15.0***. For audio data preprocessing ***Librosa 0.7.2***
 and ***Pyworld 0.2.8*** version was used. For storing the feature
 information in ***.npz*** format, ***Numpy 1.15*** was used.
-- ***TFGAN-code Files with training and validation data*** 
+- ***ALGAN-VC-code Files with training and validation data*** 
   - ***1.main.py*** 
   - ***2.train.py*** 
   - ***3.model.py*** 
@@ -59,7 +59,7 @@ Details of the mean opinion score collected from 20 volunteers according to ABX 
 - ***Opinion scores VCC_2016_Data*** 
   
   ********
- - The TF-GAN code is developed based on the given repository code: https://github.com/leimao/Voice_Converter_CycleGAN
+ - The ALGAN-VC code is developed based on the given repository code: https://github.com/leimao/Voice_Converter_CycleGAN
 
   
     
