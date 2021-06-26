@@ -1,6 +1,6 @@
 # ALGAN-VC-Generated-Audio-Samples (Generated Samples by Proposed ALGAN-VC and Converted_Speeches Folder contains the generated output samples 
 )
-- The folder named ***Generated Samples by Proposed TFGAN*** contains the following  contents:
+- The folder named ***Generated Samples by Proposed ALGAN-VC*** contains the following  contents:
 1. The audio samples used for training are in English for both the speakers and thus the generated samples also. (One Male speaker and one Female speaker)
 2. The audio samples of the male speaker is in Bengali (An Indian regional language) for the similar experiment and thus one of the generated samples also.
 
@@ -54,8 +54,8 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
   ******
 # ALGAN-VC_Opinion_Scores Folder description
 Details of the mean opinion score collected from 20 volunteers according to ABX algorithm for the **generated audio samples**
-- ***Opinion scores for TF_GAN_Un-Parallel_self_prepared_English_data*** 
-- ***Opinion scores for TF_GAN_Un-Parallel__self_prepared_regional_language_data*** 
+- ***Opinion scores for ALGAN-VC_GAN_Un-Parallel_self_prepared_English_data*** 
+- ***Opinion scores for ALGAN-VC_GAN_Un-Parallel__self_prepared_regional_language_data*** 
 - ***Opinion scores VCC_2016_Data*** 
   
   ********
