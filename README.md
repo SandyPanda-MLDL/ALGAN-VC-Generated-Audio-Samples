@@ -17,7 +17,7 @@
 - **for f in *.aac; do avconv -i "$f" "${f/%aac/wav}"; done*** replace the input format into the respective audio file formats accordingly 
 
 ******
-# TFGAN-code 
+# ALGAN-VC-code 
 ***Experimental details  :***
 The experiment was done in ***Python 3.6.9*** and packages used
 here for building the ***TF-GAN*** model are ***Tensorflow 1.15.0***. For audio data preprocessing ***Librosa 0.7.2***
@@ -52,7 +52,7 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
   - '--fn', type = int, help = 'frame number'
   
   ******
-# TF_GAN_Opinion_Scores Folder description
+# ALGAN-VC_Opinion_Scores Folder description
 Details of the mean opinion score collected from 20 volunteers according to ABX algorithm for the **generated audio samples**
 - ***Opinion scores for TF_GAN_Un-Parallel_self_prepared_English_data*** 
 - ***Opinion scores for TF_GAN_Un-Parallel__self_prepared_regional_language_data*** 
