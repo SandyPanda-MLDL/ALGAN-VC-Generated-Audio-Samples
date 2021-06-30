@@ -1,9 +1,9 @@
-# ALGAN-VC-Generated-Audio-Samples (Generated Samples by Proposed ALGAN-VC and Converted_Speeches Folder contains the generated output samples 
+# ALGAN-VC-Converted_Speech_Samples_Self_prepared_datasets (Generated Samples by Proposed ALGAN-VC and Converted_Speeches Folder contains the generated output samples 
 )
-- The folder named ***Generated Samples by Proposed ALGAN-VC*** contains the following  contents:
-1. The audio samples used for training are in English for both the speakers and thus the generated samples also. (One Male speaker and one Female speaker)
-2. The audio samples of the male speaker is in Bengali (An Indian regional language) for the similar experiment and thus one of the generated samples also.
-
+- The folder named ***Converted_Speech_Samples_Self_prepared_dataset*** contains the following  contents:
+1. The audio samples used for training are in English for both the speakers and thus the generated samples also. ( Male speaker and  Female speakers)
+2. The audio samples used for training are in Regional languages for both the speakers and thus the generated samples also. ( Male speaker and  Female speakers)
+3. THe considered models are: ALGAN-VC, ALGAN-VC without BLRS, ALGAN-VC without DRN, ALGAN-VC without L1 loss,  ALGAN-VC without L2 loss, CycleGAN-VC, CycleGAN-VC2, SP-CycleGAN
 ******
 - The folder named ***Self prepared dataset*** contains audio data of 10 different speakers from India -
 # Our self prepared dataset contains Audio samples of 10 speakers
@@ -27,7 +27,7 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
   - ***1.main.py*** 
   - ***2.train.py*** 
   - ***3.model.py*** 
-  - ***4.tfgan_network.py*** 
+  - ***4.algan_network.py*** 
   - ***5.loss.py*** 
   - ***training_data of two speakers*** 
   - ***validation_data of two speakers***
@@ -52,13 +52,7 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
   - '--fn', type = int, help = 'frame number'
   
   ******
-# ALGAN-VC_Opinion_Scores Folder description
-Details of the mean opinion score collected from 20 volunteers according to ABX algorithm for the **generated audio samples**
-- ***Opinion scores for ALGAN-VC_GAN_Un-Parallel_self_prepared_English_data*** 
-- ***Opinion scores for ALGAN-VC_GAN_Un-Parallel__self_prepared_regional_language_data*** 
-- ***Opinion scores VCC_2016_Data*** 
-  
-  ********
+
  - The ALGAN-VC code is developed based on the given repository code: https://github.com/leimao/Voice_Converter_CycleGAN
 
   
