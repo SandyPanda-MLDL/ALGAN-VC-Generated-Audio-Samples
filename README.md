@@ -32,7 +32,7 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
   - 
    ***(most importantly the Dense Residual Network based modified code is written in algan_dense_residual_net.py)***
    
-  -***6.algan_dense_residual_net.py (use instead of algan_network.py to run with Dense Residual Network based connection)***
+  ***6.algan_dense_residual_net.py (use instead of algan_network.py to run with Dense Residual Network based connection)***
   - ***training_data of two speakers*** 
   - ***validation_data of two speakers***
   
