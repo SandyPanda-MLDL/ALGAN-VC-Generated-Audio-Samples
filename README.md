@@ -5,7 +5,7 @@
 2. The audio samples used for training are in Regional languages for both the speakers and thus the generated samples also. ( Male speaker and  Female speakers)
 3. The considered models are: ***ALGAN-VC, ALGAN-VC without BLRS, ALGAN-VC without DRN, ALGAN-VC without L1 loss,  ALGAN-VC without L2 loss, CycleGAN-VC, CycleGAN-VC2, SP-CycleGAN***
 ******
-- The folder named ***Self prepared dataset*** contains audio data of 10 different speakers from India -
+- The folder named ***Self prepared dataset*** contains audio data of 15 different speakers from India -
 # Our self prepared dataset contains Audio samples of 10 speakers
 - ***Speaker1*** to ***Speaker10*** are ***10 different speakers*** and the recorded audios are in ***English Language***
   - ***The folder name (e.g Speaker_Number_gender_Region)*** represents the speaker number with their respective genders and the region they belong.
