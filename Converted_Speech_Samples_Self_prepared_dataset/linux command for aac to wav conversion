@@ -1,0 +1,2 @@
+find -name "*.aac" -exec ffmpeg -i {} -acodec libmp3lame -ab 128k {}.wav \;
+
