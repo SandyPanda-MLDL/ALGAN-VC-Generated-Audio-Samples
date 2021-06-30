@@ -6,7 +6,7 @@
 3. The considered models are: ***ALGAN-VC, ALGAN-VC without BLRS, ALGAN-VC without DRN, ALGAN-VC without L1 loss,  ALGAN-VC without L2 loss, CycleGAN-VC, CycleGAN-VC2, SP-CycleGAN***
 ******
 - The folder named ***Self prepared dataset*** contains audio data of 15 different speakers from India -
-# Our self prepared dataset contains Audio samples of 10 speakers
+# Our self prepared dataset contains Audio samples of 15 speakers
 - ***Speaker1*** to ***Speaker10*** are ***10 different speakers*** and the recorded audios are in ***English Language***
   - ***The folder name (e.g Speaker_Number_gender_Region)*** represents the speaker number with their respective genders and the region they belong.
 - ***SpeakerR1*** to ***SpeakerR5*** are ***5 different speakers*** and the recorded audios are in ***Five different Indian Regional Languages***
