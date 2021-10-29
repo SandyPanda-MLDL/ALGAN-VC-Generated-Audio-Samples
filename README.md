@@ -1,4 +1,4 @@
-# ALGAN-VC-Converted_Speech_Samples_Self_prepared_datasets (Generated Samples by **ALGAN-VC, ALGAN-VC without BLRS, ALGAN-VC without DRN, ALGAN-VC without L1 loss,  ALGAN-VC without L2 loss, CycleGAN-VC, CycleGAN-VC2, SP-CycleGAN**)
+# Converted_Speech_Samples_Self_prepared_datasets (Generated Samples by ALGAN-VC, ALGAN-VC without BLRS, ALGAN-VC without DRN, ALGAN-VC without L1 loss,  ALGAN-VC without L2 loss, CycleGAN-VC, CycleGAN-VC2, SP-CycleGAN)
 1. All the speech samples generated or converted by the models are availabe at this Google drive link: https://drive.google.com/drive/folders/1fL-gpuDbkmNZgNMIIYCLA2BdYSiAxBvo?usp=sharing
 2. Some of the generated speech samples are presented at Google site ( link: https://sites.google.com/phd.nitdgp.ac.in/algan-vc-model/home )
 ******
