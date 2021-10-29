@@ -1,6 +1,6 @@
 # An Adaptive Learning based  Generative Adversarial Network for One-To-One Voice Conversion
 ***Sandipan Dhar, Student  Member,  IEEE, Nanda Dulal Jana, Member, IEEE, and Swagatam Das, Senior Member, IEEE.***
-
+1. ArXiv link: https://arxiv.org/abs/2104.12159#
 
 # Drive links of Converted Speech Samples
 ***Generated Samples by ALGAN-VC, ALGAN-VC without BLRS, ALGAN-VC without DRN, ALGAN-VC without L1 loss,  ALGAN-VC without L2 loss, CycleGAN-VC, CycleGAN-VC2, SP-CycleGAN***
