@@ -1,9 +1,6 @@
-# ALGAN-VC-Converted_Speech_Samples_Self_prepared_datasets (Generated Samples by Proposed ALGAN-VC and Converted_Speeches Folder contains the generated output samples 
-)
-- The folder named ***Converted_Speech_Samples_Self_prepared_dataset*** contains the following  contents:
-1. The audio samples generated or converted during both intra gender and inter gender English language voice conversion. ( Male speaker and  Female speakers)
-2. The audio samples generated or converted during both intra gender and inter gender Regional language voice conversion. ( Male speaker and  Female speakers)
-3. The considered models are: ***ALGAN-VC, ALGAN-VC without BLRS, ALGAN-VC without DRN, ALGAN-VC without L1 loss,  ALGAN-VC without L2 loss, CycleGAN-VC, CycleGAN-VC2, SP-CycleGAN***
+# ALGAN-VC-Converted_Speech_Samples_Self_prepared_datasets (Generated Samples by ***ALGAN-VC, ALGAN-VC without BLRS, ALGAN-VC without DRN, ALGAN-VC without L1 loss,  ALGAN-VC without L2 loss, CycleGAN-VC, CycleGAN-VC2, SP-CycleGAN***)
+1. All the speech samples generated or converted by the models are availabe at this Google drive link: https://drive.google.com/drive/folders/1fL-gpuDbkmNZgNMIIYCLA2BdYSiAxBvo?usp=sharing
+2. Some of the generated speech samples are presented at Google site ( link: https://sites.google.com/phd.nitdgp.ac.in/algan-vc-model/home )
 ******
 - The folder named ***Self prepared dataset*** contains audio data of 15 different speakers from India -
 # Our self prepared dataset contains Audio samples of 15 speakers
