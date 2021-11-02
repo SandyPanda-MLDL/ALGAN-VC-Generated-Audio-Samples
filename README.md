@@ -64,4 +64,4 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
 ******
 
  # Objective evaluation codes (MCD and log F0 RMSE) 
- - ***codes for calculating the Mel Cepstral Distortion (MCD) and log F0 root means squared error (RMSE) are available in this repository***
+ - ***Jupyter Notebooks of calculating the Mel Cepstral Distortion (MCD) and log F0 root means squared error (RMSE) are available in this repository***
