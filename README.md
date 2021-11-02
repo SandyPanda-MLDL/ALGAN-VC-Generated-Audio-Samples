@@ -4,12 +4,12 @@
 
 # Drive links of Converted Speech Samples
 ***Generated Samples by ALGAN-VC, ALGAN-VC without BLRS, ALGAN-VC without DRN, ALGAN-VC without L1 loss,  ALGAN-VC without L2 loss, CycleGAN-VC, CycleGAN-VC2, SP-CycleGAN***
-1. All the speech samples generated or converted by the models are availabe at this Google drive link: https://drive.google.com/drive/folders/1fL-gpuDbkmNZgNMIIYCLA2BdYSiAxBvo?usp=sharing
-2. Some of the generated speech samples are presented at Google site ( link: https://sites.google.com/phd.nitdgp.ac.in/algan-vc-model/home )
-3. VCC 2016 speech dataset link: https://datashare.ed.ac.uk/handle/10283/2211
-4. VCC 2018 speech dataset link: https://datashare.ed.ac.uk/handle/10283/3061
-4. VCC 2020 speech dataset link: https://github.com/nii-yamagishilab/VCC2020-database
-5. Emotional speech dataset link: https://github.com/HLTSingapore/Emotional-Speech-Data
+1. ***All the speech samples generated or converted by the models are availabe at this Google drive link: https://drive.google.com/drive/folders/1fL-gpuDbkmNZgNMIIYCLA2BdYSiAxBvo?usp=sharing
+2. ***Some of the generated speech samples are presented at Google site ( link: https://sites.google.com/phd.nitdgp.ac.in/algan-vc-model/home )
+3. ***VCC 2016 speech dataset link: https://datashare.ed.ac.uk/handle/10283/2211
+4. ***VCC 2018 speech dataset link: https://datashare.ed.ac.uk/handle/10283/3061
+4. ***VCC 2020 speech dataset link: https://github.com/nii-yamagishilab/VCC2020-database
+5. ***Emotional speech dataset link: https://github.com/HLTSingapore/Emotional-Speech-Data
 ******
 - The folder named ***Self prepared dataset*** contains audio data of 15 different speakers from India -
 # Our self prepared dataset contains Audio samples of 15 speakers
