@@ -61,6 +61,6 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
 
  - The ALGAN-VC code is developed based on the given repository code: https://github.com/leimao/Voice_Converter_CycleGAN
 
+******
 
-
- ***Jupyter Notebook for calculating the Mel Cepstral Distortion (MCD) and log F0 root means squared error (RMSE) are available in this repository *** 
+ # Jupyter Notebook for calculating the Mel Cepstral Distortion (MCD) and log F0 root means squared error (RMSE) are available in this repository
