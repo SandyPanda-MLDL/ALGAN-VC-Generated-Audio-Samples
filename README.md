@@ -72,3 +72,12 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
 1. Code for Mel Cepstral Distortion (MCD).ipynb
 2. F0 RMSE calculation.ipynb
 3. MSD code implementation.ipynb
+
+
+# Codes of Global Variance (GV) and Modulation Spectra (MS) per modulation frequency
+
+ - ***Jupyter Notebooks of calculating Global Variance (GV) and Modulation Spectra (MS) per modulation frequency are available in this repository***
+1. GV code.ipynb
+2. MODULATION_SPECTRUM_CODE .ipynb
+3. F0 RMSE calculation.ipynb
+4. MSD code implementation.ipynb
