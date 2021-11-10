@@ -68,6 +68,7 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
 ******
 
  # Objective evaluation codes (MCD and F0 RMSE) 
- - ***Jupyter Notebooks of calculating the Mel Cepstral Distortion (MCD) and  F0 root means squared error (RMSE) are available in this repository***
+ - ***Jupyter Notebooks of calculating the Mel Cepstral Distortion (MCD) , F0 root means squared error (RMSE) and Modulation Spectra Distance (MSD) are available in this repository***
 1. Code for Mel Cepstral Distortion (MCD).ipynb
-2. Code for  F0 RMSE calculation.ipynb
+2. F0 RMSE calculation.ipynb
+3. MSD code implementation.ipynb
