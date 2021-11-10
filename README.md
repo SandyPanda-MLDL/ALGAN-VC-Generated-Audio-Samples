@@ -64,6 +64,7 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
   ******
 
  - The ALGAN-VC code is developed based on the given repository code: https://github.com/leimao/Voice_Converter_CycleGAN
+ - The objective evaluation codes are based on the given repository: https://github.com/r9y9/nnmnkwii
 
 ******
 
