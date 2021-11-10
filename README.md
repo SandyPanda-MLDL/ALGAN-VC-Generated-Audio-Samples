@@ -79,5 +79,3 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
  - ***Jupyter Notebooks of calculating Global Variance (GV) and Modulation Spectra (MS) per modulation frequency are available in this repository***
 1. GV code.ipynb
 2. MODULATION_SPECTRUM_CODE .ipynb
-3. F0 RMSE calculation.ipynb
-4. MSD code implementation.ipynb
