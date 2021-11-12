@@ -75,8 +75,9 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
 3. MSD code implementation.ipynb
 
 
-# Global Variance (GV) and Modulation Spectra (MS) per modulation frequency
+# Global Variance (GV), MCEP Trajectories and Modulation Spectra (MS) per modulation frequency
 
- - ***Jupyter Notebooks of calculating Global Variance (GV) and Modulation Spectra (MS) per modulation frequency are available in this repository***
+ - ***Jupyter Notebooks of calculating Global Variance (GV), MCEP Trajectories and Modulation Spectra (MS) per modulation frequency are available in this repository***
 1. GV code.ipynb
-2. MODULATION_SPECTRUM_CODE .ipynb
+2. MCEP_Trajectory.ipynb
+3. MODULATION_SPECTRUM_CODE .ipynb
