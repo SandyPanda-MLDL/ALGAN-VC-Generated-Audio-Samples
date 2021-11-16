@@ -75,7 +75,7 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
 3. MSD code implementation.ipynb
 
 
-# Global Variance (GV), MCEP Trajectories and Modulation Spectra (MS) per modulation frequency
+# Global Variance (GV), MCEP Trajectories , Modulation Spectra (MS) per modulation frequency and Perceptual Evaluation of Speech Quality (PESQ) 
 
  - ***Jupyter Notebooks of calculating Global Variance (GV), MCEP Trajectories and Modulation Spectra (MS) per modulation frequency and Perceptual Evaluation of Speech Quality (PESQ) are available in this repository***
 1. GV code.ipynb
